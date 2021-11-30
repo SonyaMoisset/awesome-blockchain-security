@@ -1,1 +1,1 @@
-# awesome-blockchain-security
+# Awesome Blockchain Security
