@@ -10,7 +10,7 @@
 
 ## Articles
 - [Top 5 Blockchain Security Issues in 2021](https://101blockchains.com/blockchain-security-issues/)
-- [The Benefits and` Vulnerabilities of Blockchain Security](https://www.cengn.ca/information-centre/innovation/the-benefits-and-vulnerabilities-of-blockchain-security/)
+- [The Benefits and Vulnerabilities of Blockchain Security](https://www.cengn.ca/information-centre/innovation/the-benefits-and-vulnerabilities-of-blockchain-security/)
 - [Blockchain Security Issues - A Complete Guide](https://www.getastra.com/blog/knowledge-base/blockchain-security-issues/)
 
 ## Organisations
@@ -38,5 +38,5 @@
 ## Wallet Security
 
 
-## SWC Registry - Smat Contract Weakness Clasification and Test Cases
+## SWC Registry - Smart Contract Weakness Classification and Test Cases
 [Registry](https://swcregistry.io/docs/SWC-100)
