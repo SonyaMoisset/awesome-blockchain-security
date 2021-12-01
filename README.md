@@ -15,13 +15,55 @@
 
 ## Organisations
 ### Cloud Security Alliance
-- [Over 200 Documented Blockchain Attacks, Vulnerbailities and Weaknesses](https://cloudsecurityalliance.org/blog/2020/10/26/blockchain-attacks-vulnerabilities-and-weaknesses/)
+- [Over 200 Documented Blockchain Attacks, Vulnerabilities and Weaknesses](https://cloudsecurityalliance.org/blog/2020/10/26/blockchain-attacks-vulnerabilities-and-weaknesses/)
 - [Blockchain DLT Attacks and Weaknesses Enumeration](https://docs.google.com/spreadsheets/d/1HIM3BH8Cgth27ED4ruy9fXOpbOUAPAGY7merlZiE6_U/edit#gid=1028635246)
 - [Secure Distributed Ledger Technology Framework for Financial Institute](https://cloudsecurityalliance.org/blog/2021/08/03/secure-distributed-ledger-technology-framework-for-financial-institutes/)
 - [Crypto-Asset Exchange Security Guidelines](https://cloudsecurityalliance.org/artifacts/csa-crypto-asset-exchange-security-guidelines-abstract/)
 - [Hyperledger Fabric 2.0 Architecture Security Report](https://cloudsecurityalliance.org/artifacts/hyperledger-fabric-2-0-architecture-security-report/)
 - [Hyperledger Fabric 2.0 Architecture Security Controls Checklist](https://cloudsecurityalliance.org/artifacts/hyperledger-fabric-2-0-architecture-security-controls-checklist/)
 - [Top 10 Blockchain Attacks, Vulnerabilities & Weaknesses](https://cloudsecurityalliance.org/artifacts/top-10-blockchain-attacks-vulnerabilities-weaknesses/)
+
+## Blockchain DLT Attacks and Weaknesses Enumeration
+- Account Hijacking
+- API Exposure
+- Artificial Difficulty Increases
+- Balance Attack
+- Bitcoin lightning - Eclipse Attack Time Dilation
+- Bitcoin Lightning - Flood and Loot
+- Bitcoin Lightning - Pinning
+- Bitcoin Lightning - Spamming Payment Micropayments
+- Block Forger DoS
+- Block Mining Finney Attack
+- Block Mining Rae Attack
+- Block Mining Timejack Attack
+- Block reordering Attack
+- Blockchain nIngestion
+- Blockchain network Lacks Hash Capacity
+- Blockchain Network Partitioning Attack
+- Blockchain Peer Flooding Attack
+- Blockchain Peer Flooding Attack Slowloris Variant
+- Blockchain Reorganization Attack
+- Blockchain Weak Sources of Randomness
+- Consensus 34% Attack
+- Consensus 51% Attack
+- Consensus Attack
+- Consensus Attack Against PoS
+- Consensus Attack Against PoW
+- Consensus Delay Attack
+- Consensus Majority Attack
+- Credential Stuffing
+- Cryptomining
+- Cryptomining Malware
+- Data Corruption
+- Dictionnary Attack
+- Distributed-Denial-of-Service Attack
+- DNS Attacks
+- DoS against Ethereum 2.0 validator to trigger penalty for being offline
+- Double Spending Attack
+- Download of Data Without Integrity Check
+- Dusting Attack
+- Eclipse Attack
+- EOS RAM Vulnerability
 
 ## Notable Blockchain Security Issues
 - Exchange Hacks
@@ -36,6 +78,8 @@
 - Extortion
 
 ## Wallet Security
+- Fake Software Wallets
+- Fake Hardware Wallets
 
 
 ## SWC Registry - Smart Contract Weakness Classification and Test Cases
