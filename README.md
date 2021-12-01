@@ -93,6 +93,39 @@
 - Leading Ether to Arbitrary Address
 - Long-Range Attack
 - Lost Ether in The Transaction
+- Long-Range Attack
+- Lost Ether in The Transaction
+- Majority Attack
+- Malfunctioned MSP
+- Malicious Mining
+- Malicious Web Extensions
+- Membership Service Provider Attacks
+- Mirroring
+- Multi-Factor Authentication (MFA)
+- Multiple Signatures
+- Namespace Squatting on Internal Packages
+- Network Routing Attacks
+- Non-existent Accounts
+- Nothing at Stake
+- On-Chain Data Confidentiality
+- Orphan Blocks
+- Parity Multisig Wallet Attack
+- Permissioned Blockchain MSP DoS
+- Phishing Attack
+- Pool Hopping
+- Private Key Leakage Attack
+- Public Peer Selection
+- Replay Attack
+- Requirements of Keeping Real World PII Data Associated With Crypto Wallet Addresses
+- Ring Signatures
+- RPC Call Vulnerability
+- Selfish Mining Attack (Block Withholding Attack)
+- SIM Swap
+- Single perspective Validation
+- Smart Contract Use of Outdated Compiler Version
+- Smart Contract Access Control - Smart Contract Initiatlization
+- Smart Contract Arbitrary Jump With Function type Variable
+
 
 ## Notable Blockchain Security Issues
 - Exchange Hacks
