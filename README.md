@@ -71,9 +71,9 @@
 - SWC-128 | [DoS With Block Gas Limit](https://swcregistry.io/docs/SWC-128)
 - SWC-129 | [Typographical Error](https://swcregistry.io/docs/SWC-129)
 - SWC-130 | [Right-To_left-Override control character (U+202E)](https://swcregistry.io/docs/SWC-130)
-- SWC-131 | Presence of unnused variables
-- SWC-132 | Unexpected Ether balance
-- SWC-133 | Hash Collisions With Multiple Variable Length Arguments
-- SWC-134 | Message call with harcoded gas amount
-- SWC-135 | Code With No Effects
-- SWC-136 | Unencrypted Private Data On-Chain
+- SWC-131 | [Presence of unnused variables](https://swcregistry.io/docs/SWC-131)
+- SWC-132 | [Unexpected Ether balance](https://swcregistry.io/docs/SWC-132)
+- SWC-133 | [Hash Collisions With Multiple Variable Length Arguments](https://swcregistry.io/docs/SWC-133)
+- SWC-134 | [Message call with harcoded gas amount](https://swcregistry.io/docs/SWC-134)
+- SWC-135 | [Code With No Effects](https://swcregistry.io/docs/SWC-135)
+- SWC-136 | [Unencrypted Private Data On-Chain](https://swcregistry.io/docs/SWC-136)
