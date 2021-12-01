@@ -64,6 +64,35 @@
 - Dusting Attack
 - Eclipse Attack
 - EOS RAM Vulnerability
+- ERC20 Token Transfer to Self Token Address (and possibly other tokens)
+- Ethereum Solidity Prior to 0.5.0 View Promise Not Enforced
+- Evil Maid Attack
+- Failure to Update
+- Fixed Consensus Termination
+- Flash Loans
+- Flawed Blockchain Network Design
+- Fork-after-withhold Attack
+- Freeloadinng
+- Front Running
+- Front Running Displacement
+- Front Runningn Insertion
+- Front Running Mempool
+- Front Running Oracle
+- Front Running Suppression
+- Frozen ether
+- Gas Limit DoS on the Blockchain Network via Block Stuffing
+- Hard Fork Software Update
+- Hash Functions
+- Homomorphic Encryption
+- Identity and Access Management Overview
+- Immutable Bugs
+- Implementation of Something They Should Use a Standard Library For
+- Indistinguishable Chais
+- Insecure API Connections
+- Insider Threat
+- Leading Ether to Arbitrary Address
+- Long-Range Attack
+- Lost Ether in The Transaction
 
 ## Notable Blockchain Security Issues
 - Exchange Hacks
