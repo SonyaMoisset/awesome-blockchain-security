@@ -40,3 +40,40 @@
 
 ## SWC Registry - Smart Contract Weakness Classification and Test Cases
 [Registry](https://swcregistry.io/docs/SWC-100)
+- SWC-100 | [Function Default Visibility](https://swcregistry.io/docs/SWC-100)
+- SWC-101 | [Integer Ovweflow and Underflow](https://swcregistry.io/docs/SWC-101)
+- SWC-102 | [Outdated Compiler Version](https://swcregistry.io/docs/SWC-102)
+- SWC-103 | [Floating Pragma](https://swcregistry.io/docs/SWC-103)
+- SWC-104 | [Unchecked Call Return Value](https://swcregistry.io/docs/SWC-104)
+- SWC-105 | [Unprotected Ether Withdrawal](https://swcregistry.io/docs/SWC-105)
+- SWC-106 | [Unprotected SELFDESTRUCT Instruction](https://swcregistry.io/docs/SWC-106)
+- SWC-107 | [Reentrancy](https://swcregistry.io/docs/SWC-107)
+- SWC-108 | [State Variable Default Visibility](https://swcregistry.io/docs/SWC-108)
+- SWC-109 | [Uninitialized Storage Pointer](https://swcregistry.io/docs/SWC-109)
+- SWC-110 | [Assert Violation](https://swcregistry.io/docs/SWC-110)
+- SWC-111 | [Use of Deprecated Solidity Functions](https://swcregistry.io/docs/SWC-111)
+- SWC-112 | [Delegated to Untrusted Callee](https://swcregistry.io/docs/SWC-112)
+- SWC-113 | [DoS with Failed Call](https://swcregistry.io/docs/SWC-113)
+- SWC-114 | [Transaction Order Dependence](https://swcregistry.io/docs/SWC-114)
+- SWC-115 | [Authorization through tx.origin](https://swcregistry.io/docs/SWC-115)
+- SWC-116 | Block values as a proxy for time
+- SWC-117 | Signature Malleability
+- SWC-118 | Incorrect Constructor Name
+- SWC-119 | Shadowing State Variables
+- SWC-120 | Weak Sources of Randomness from Chain Attributes
+- SWC-121 | Missing Protection against Signature Replay Attacks
+- SWC-122 | Lack of Proper Signature Verification
+- SWC-123 | Requirement Violatin
+- SWC-124 | Write to Arbitrary Storage Location
+- SWC-125 | Incorrect Inheritance Order
+- SWC-126 | Insufficient Gas Griefing
+- SWC-127 | Arbitrary Jump with Function Type Variable
+- SWC-128 | DoS With Block Gas Limit
+- SWC-129 | Typographical Error
+- SWC-130 | Right-To_left-Override control character (U+202E)
+- SWC-131 | Presence of unnused variables
+- SWC-132 | Unexpected Ether balance
+- SWC-133 | Hash Collisions With Multiple Variable Length Arguments
+- SWC-134 | Message call with harcoded gas amount
+- SWC-135 | Code With No Effects
+- SWC-136 | Unencrypted Private Data On-Chain
