@@ -125,6 +125,11 @@
 - Smart Contract Use of Outdated Compiler Version
 - Smart Contract Access Control - Smart Contract Initiatlization
 - Smart Contract Arbitrary Jump With Function type Variable
+- Smart Contract Assert Violation
+- Smart Contract Authorization through tx.origin
+- Smart Contract Block values as a proxy for time
+- Smart Contract Call Depth Attack
+- Smart Contract Call to Unknown Function via fallaback()
 
 
 ## Notable Blockchain Security Issues
