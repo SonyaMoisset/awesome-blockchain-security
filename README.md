@@ -32,6 +32,21 @@
 - Alpha Finance
 - Vee Finance
 - Meerkat Finance
+- MonoX
+- Spartan Protocol
+- StableMagnet
+- Paid Network
+- Harvest Finance
+- XToken
+- Popsicle Finance
+- Pickle Finance
+- Cream Finance
+- Snowdog
+- bEarn
+- Indexed Finance
+- Eminence
+- Furucombo
+- Compounder Finance
 
 
 ## Organisations
