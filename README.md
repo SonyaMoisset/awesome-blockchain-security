@@ -12,6 +12,27 @@
 - [Top 5 Blockchain Security Issues in 2021](https://101blockchains.com/blockchain-security-issues/)
 - [The Benefits and Vulnerabilities of Blockchain Security](https://www.cengn.ca/information-centre/innovation/the-benefits-and-vulnerabilities-of-blockchain-security/)
 - [Blockchain Security Issues - A Complete Guide](https://www.getastra.com/blog/knowledge-base/blockchain-security-issues/)
+- [These Were the Worst Hacks of 2021](https://coinmarketcap.com/alexandria/article/these-were-the-worst-hacks-of-2021-so-far)
+
+
+## Crypto Hacks
+- [Rekt Leaderboard](https://rekt.news/leaderboard)
+- Poly Network
+- BitMart
+- Coumpound
+- Vulcan Forged
+- Cream Finance
+- Badger
+- Ascendex
+- EasyFi
+- Uranium Finance
+- bZx
+- PancakeBunny
+- Kucoin
+- Alpha Finance
+- Vee Finance
+- Meerkat Finance
+
 
 ## Organisations
 ### Cloud Security Alliance
@@ -22,6 +43,7 @@
 - [Hyperledger Fabric 2.0 Architecture Security Report](https://cloudsecurityalliance.org/artifacts/hyperledger-fabric-2-0-architecture-security-report/)
 - [Hyperledger Fabric 2.0 Architecture Security Controls Checklist](https://cloudsecurityalliance.org/artifacts/hyperledger-fabric-2-0-architecture-security-controls-checklist/)
 - [Top 10 Blockchain Attacks, Vulnerabilities & Weaknesses](https://cloudsecurityalliance.org/artifacts/top-10-blockchain-attacks-vulnerabilities-weaknesses/)
+
 
 ## Blockchain DLT Attacks and Weaknesses Enumeration
 - Account Hijacking
@@ -218,6 +240,15 @@
 - Unlimited Incoming Connections
 - Vector76
 - Voice Assistant Attack
+- Vote Token Trapping
+- Vulnerabilities in Virtual Machines (EVM, JVM)
+- Vulnerability to Malware
+- Vulnerable Signature
+- Wallet Theft
+- Wallet Weak Seed Creation
+- Zero Balance Accounts
+- Failure to Remove Developer or Test Credentials or Addresses from a SmartContract
+- XSS in Wallets and Smart Contract Interfacesvia Company Names/etc
 
 
 ## Notable Blockchain Security Issues
@@ -231,6 +262,7 @@
 - Investment Scam
 - High-Profile Doubler Scam
 - Extortion
+
 
 ## Wallet Security
 - Fake Software Wallets
