@@ -16,7 +16,7 @@
 
 
 ## Crypto Hacks
-- [Rekt Leaderboard](https://rekt.news/leaderboard)
+[Rekt Leaderboard](https://rekt.news/leaderboard)
 - Poly Network
 - BitMart
 - Coumpound
@@ -47,6 +47,26 @@
 - Eminence
 - Furucombo
 - Compounder Finance
+- Value DeFi
+- Yearn
+- Rari Capital
+- Value DeFi
+- Cover
+- Punk Protocol
+- THORChain
+- Hack Epidemic 
+- Anyswap
+- Warp Finance
+- BurgerSwap
+- Value DeFi
+- Alchemix
+- Belt
+- Bondly
+- Roll
+- THORChain
+- X-Token
+- Eleven Finance
+- ChainSwap
 
 
 ## Organisations
