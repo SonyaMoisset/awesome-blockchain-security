@@ -130,6 +130,26 @@
 - Smart Contract Block values as a proxy for time
 - Smart Contract Call Depth Attack
 - Smart Contract Call to Unknown Function via fallaback()
+- Smart Contract Code With No Effects
+- Smart Contrat Cross-Function Race Condition
+- Smart Contract Default Fallback Address Attack
+- Smart Contract Delegate Call Injection
+- Smart Contract Delegate Call to Untrusted Callee
+- Smart Contract Disordered Exceptionns
+- Smart Contract DoS
+- Smart Contract DoS with Block Gas Limit
+- Smart Contract DoS with Failed Call
+- Smart Contract DoS wit Unbounded Operations
+- Smart Contract DoS With Unexpected Revert
+- Smart Contract Erroneous Constructor Name
+- Smart Contract Erronenous Visibility
+- Smart Contract Ehter Lost in Transfer
+- Snart Contract Ether Lost to Orphan Addresses
+- Smart Contract Etherum Gasless Send
+- Smart Contract Floating Pragma
+- Smart Contract Forcibly Sending Ether to a Contract
+- Smart Contract has undocumented "onlyOwner" termination function or other capability
+- Smart Contract Hash Collisions with Multiple Variable Length Arguments
 
 
 ## Notable Blockchain Security Issues
