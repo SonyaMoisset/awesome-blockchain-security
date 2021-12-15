@@ -176,6 +176,48 @@
 - Smart Conrtact Stack Size Limit
 - Smart Contract State Variable Default Visibility
 - Smart Contract Time Related Issues
+- Smart Contract Timestamp Dependency
+- Smart Contract Transaction Order Dependence
+- Smart Contract Transaction Ordering Dependency (TOD)
+- Smart Contract Typecasts
+- Smart Contract Typographical Error
+- Smart Contract Unchecked Call Return Value
+- Smart Contract Unchecked Return Values
+- Smart Contract Underpriced Opcodes
+- Smart Contract Unencrypted Private Data On-Chain
+- Smart Conrtact Unexpected Call Return Value
+- Smart Contract Unexpected Ether Balance
+- Smart Contract Uninitialised Storage Pointer
+- Smart Contract Unpredictable State
+- Smart Contract Unprotected Ether Withdrawaal
+- Smart Contract Unprotectedt SELFDESTRUCT Instruction
+- Smart Contract Unprotected Suicide
+- Smart Contract Upgradeable Contract
+- Smart Contract Usage of "continue" in "do-while"
+- Smart Contract Use of Deprecated Solidity Functions
+- Smart Contract Weak Field Modifier
+- Smart Contract Weak Sources of Randomness from Chain Attributes
+- Smart Contract Write to Arbitrary Storage Location
+- Smart Contract Function Default Visibility
+- Soft Forks
+- Sole Block Synchronisation
+- Stealth Addresses
+- Sybil Attacks
+- Time Manipulation
+- Timebomb
+- Timejacking
+- Transaction Flooding
+- Transaction Malleability
+- Two-Factor Authentication (2FA)
+- Two-Factor Authentication (2FA) via Biometrics
+- Two-Factor Authentication (2FA) via Email
+- Two-Factor Authentication (2FA) via SMS
+- Typo squatting on Spellcheck Names
+- Uncle Block Rewards
+- Uncle Forks
+- Unlimited Incoming Connections
+- Vector76
+- Voice Assistant Attack
 
 
 ## Notable Blockchain Security Issues
