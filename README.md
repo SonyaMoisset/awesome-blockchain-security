@@ -150,6 +150,32 @@
 - Smart Contract Forcibly Sending Ether to a Contract
 - Smart Contract has undocumented "onlyOwner" termination function or other capability
 - Smart Contract Hash Collisions with Multiple Variable Length Arguments
+- Smart Contract Immutable Bugs
+- Smart Contract Incorrect Constructor Name
+- Smart Contract Incorrect ERC20 Implementation
+- Smart Contract Incorrect Function State Mutability
+- Smart Contract Incorrect Inheritance Order
+- Smart Contract Insufficient Gas Griefing
+- Smart Contract Integer Iverflow and Underflow
+- Smart Contract Keeping Secrets
+- Smart Contract Lack of Address Key Binding
+- Smart Contract Lack of Proper Signature Verification
+- Smart Contract Manipulation Balance
+- Smart Contract Message Call with Hardcoded Gas Amnout
+- Smart Contrat Mishandled Exceptions
+- Smart Contract Missing Protection Against Signature Replay Attacks
+- Smart Contract Presence of Unused Variables
+- Smart Contract Race Conditions
+- Smart Contract Rentrancy Race Condition
+- Smart Contract Requirement Violation
+- Smart Contract Right-To-Left-Override Control Character (U+202E)
+- Smart Contract Shadowing State Variables
+- Smart Contract Short Address Attack
+- Smart Contract Signature Malleability
+- Smart Contract Source Code Unavailable for review
+- Smart Conrtact Stack Size Limit
+- Smart Contract State Variable Default Visibility
+- Smart Contract Time Related Issues
 
 
 ## Notable Blockchain Security Issues
