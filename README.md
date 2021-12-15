@@ -67,6 +67,20 @@
 - X-Token
 - Eleven Finance
 - ChainSwap
+- DAO Maker
+- JayPegs Automart
+- PancakeBunny
+- DODO
+- Akropolis
+- 8ight Finance
+- Levyathan
+- The Big Combo
+- Autoshark
+- Merlin Labs
+- Merlin Labs
+- Merlin Labs
+- Saddle Finance
+- SafeDollar
 
 
 ## Organisations
